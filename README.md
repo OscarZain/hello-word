@@ -5,3 +5,4 @@ This is just a test of how to works commits in Git
 *********
 *****
 *************
+# More changes done it 
